@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: CNNClassifier
+Version: 0.0.0
+Summary: A small local python package for CNN app
+Home-page: https://github.com/92-vasim/chicken-disease-classification
+Author: 92-vasim
+Author-email: wmuddassir@gmail.com

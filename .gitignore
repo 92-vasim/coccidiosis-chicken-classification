@@ -1,0 +1,5 @@
+.venv
+reference
+note.txt
+__pycache__
+artifacts/*
